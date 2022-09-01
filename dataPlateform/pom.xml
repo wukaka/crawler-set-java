@@ -19,7 +19,7 @@
         <jackson.version>2.9.7</jackson.version>
         <skipTests>true</skipTests>
         <swagger.version>2.9.2</swagger.version>
-        <jsoup.version>1.11.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <jchronic.version>0.2.8</jchronic.version>
         <spring.boot.denpencies.version>2.1.3.RELEASE</spring.boot.denpencies.version>
         <spring.cloud.denpencies.version>Greenwich.SR1</spring.cloud.denpencies.version>
